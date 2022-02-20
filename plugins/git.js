@@ -14,7 +14,7 @@ asena.addCommand({pattern: 'git', fromMe: true, deleteCommand: true, desc: GM,},
 
     var r_text = new Array ();
 
-    r_text[0] = "*https://github.com/PRINCE-SER/Prince_ser*"; 
+    r_text[0] = "*https://github.com/jaadakkaran/Prince_ser*"; 
  
     var i = Math.floor(1*Math.random())
 
